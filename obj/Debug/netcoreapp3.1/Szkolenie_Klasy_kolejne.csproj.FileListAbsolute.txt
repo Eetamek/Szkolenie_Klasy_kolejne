@@ -1,0 +1,14 @@
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\bin\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.exe
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\bin\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.deps.json
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\bin\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.runtimeconfig.json
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\bin\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.runtimeconfig.dev.json
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\bin\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.dll
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\bin\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.pdb
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\obj\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\obj\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.AssemblyInfoInputs.cache
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\obj\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.AssemblyInfo.cs
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\obj\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.csproj.CoreCompileInputs.cache
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\obj\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.dll
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\obj\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.pdb
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\obj\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.genruntimeconfig.cache
+C:\Users\Eetam\source\repos\Szkolenie_Klasy_kolejne\obj\Debug\netcoreapp3.1\Szkolenie_Klasy_kolejne.csproj.AssemblyReference.cache
